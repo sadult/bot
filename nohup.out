@@ -1,0 +1,11 @@
+[H[2J[3J/usr/local/lib/python3.8/dist-packages/telegram/ext/conversationhandler.py:287: UserWarning: If 'per_message=False', 'CallbackQueryHandler' will not be tracked for every message.
+  warnings.warn(
+[INFO][08-15 10:12](apscheduler.scheduler) : Scheduler started
+Traceback (most recent call last):
+  File "eps.py", line 6, in <module>
+    from telegram.ext import (CallbackQueryHandler, CommandHandler,
+ModuleNotFoundError: No module named 'telegram'
+Traceback (most recent call last):
+  File "eps.py", line 6, in <module>
+    from telegram.ext import (CallbackQueryHandler, CommandHandler,
+ModuleNotFoundError: No module named 'telegram'
